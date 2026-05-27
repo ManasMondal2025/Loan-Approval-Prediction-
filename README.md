@@ -21,7 +21,7 @@ The workflow includes:
 .
 ├── final.ipynb          # Main Jupyter Notebook
 ├── README.md            # Project documentation
-└── dataset.csv          # Dataset used for training (if available)
+└── Report.pdf           # Report of the project
 ```
 
 ---
